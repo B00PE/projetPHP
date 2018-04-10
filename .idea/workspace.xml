@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f19cf17-1806-474b-a156-61537b082096" name="Default" comment="" />
+    <list default="true" id="9f19cf17-1806-474b-a156-61537b082096" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/project/resources/views/welcome.blade.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,11 +15,70 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/project/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="2018_04_10_120204_create_administrateurs_table.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120204_create_administrateurs_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120546_create_parcours_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120537_create_cadres_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120525_create_situation_obligatoires_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120506_create_competences_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120455_create_niveaux_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120445_create_sources_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120435_create_activites_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120423_create_productions_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120410_create_situations_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120357_create_promotions_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120030_create_types_table.php" />
+        <option value="$PROJECT_DIR$/project/.env" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120204_create_administrateurs_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120242_create_date_commentaires_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120252_create_eleves_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120308_create_professeurs_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120344_create_localisations_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120557_create_correspondres_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120607_create_gerers_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120619_create_commenters_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120630_create_reformulers_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120640_create_avoirs_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120650_create_obligers_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120700_create_enregistrers_table.php" />
+        <option value="$PROJECT_DIR$/project/database/migrations/2018_04_10_120711_create_produires_table.php" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -97,16 +162,17 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
-    <option name="height" value="970" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,18 +185,36 @@
               <item name="projetPHP" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="project" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="projetPHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetPHP" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="projetPHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetPHP" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="project" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="migrations" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/site" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\projetPHP\project\app" />
+      <recent name="C:\wamp64\www\projetPHP\project\app\Model" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,35 +238,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522414340327</updated>
-      <workItem from="1522414343341" duration="1301000" />
+      <workItem from="1522414343341" duration="2580000" />
+      <workItem from="1523357949754" duration="4048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1301000" />
+    <option name="totallyTimeSpent" value="6628000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24563758" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3295302" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32905984" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32905984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,5 +276,205 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="25" lean-forward="true" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="70" column="25" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/app/Activite.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2014_10_12_100000_create_password_resets_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120030_create_types_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120242_create_date_commentaires_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120252_create_eleves_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120308_create_professeurs_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120344_create_localisations_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="68" lean-forward="true" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120357_create_promotions_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120410_create_situations_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="41" column="39" lean-forward="true" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120423_create_productions_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="40" lean-forward="true" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120435_create_activites_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120445_create_sources_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120455_create_niveaux_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120506_create_competences_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120525_create_situation_obligatoires_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="51" lean-forward="true" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120537_create_cadres_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120546_create_parcours_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120557_create_correspondres_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120607_create_gerers_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120619_create_commenters_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120630_create_reformulers_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120640_create_avoirs_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120650_create_obligers_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120700_create_enregistrers_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120711_create_produires_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/database/migrations/2018_04_10_120204_create_administrateurs_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
